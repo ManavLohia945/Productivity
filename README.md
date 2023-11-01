@@ -1,6 +1,6 @@
 # Productivity Boost - Your All-in-One Productivity Tool
 
-![Productivity Boost](link_to_project_logo.png)
+![Productivity Boost]
 
 Productivity Boost is a powerful productivity tool that helps you manage your time, tasks, and overall efficiency. It offers a suite of features to enhance your productivity, from the Pomodoro Timer to Daily Quotes for motivation.
 
