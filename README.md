@@ -51,3 +51,29 @@ We welcome contributions from the community to make Productivity Boost even bett
 
    ```bash
    git clone https://github.com/yourusername/productivity-boost.git
+
+2. **Create a Branch:** Create a new branch for your feature or bug fix.
+
+   ```bash
+   git checkout -b feature/new-feature
+
+3. **Make Changes:** Make your desired changes or additions to the project.
+
+4. **Commit Changes:** Commit your changes with clear and concise commit messages.
+   
+   ```bash
+   git commit -m "Add new feature: Your Feature Description"
+
+6. **Push Changes:** Push your changes to your fork on GitHub.
+
+    ```bash
+   git push origin feature/new-feature
+
+7. **Send a Pull Request:** Go to the main repository on GitHub and open a pull request to merge your changes.
+
+We appreciate your contributions to help make Productivity Boost a valuable tool for users worldwide!
+
+Productivity Boost is an open-source project created by Manav,Vedant,Riya,Ujwal. If you have any questions or suggestions, please feel free to contact us.
+
+
+
